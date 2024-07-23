@@ -1,0 +1,16 @@
+{
+"Blue_Top": {
+    "id": 3,
+    "attrs":
+      {
+        "price": "Rs. 500"
+      }
+    },
+"Men_Tshirt": {  
+    "id": 4,
+    "attrs":
+      {
+        "price": "Rs. 400"
+      }
+  }
+}
